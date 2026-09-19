@@ -6,7 +6,7 @@ public class HelloSekai : MonoBehaviour
 {
 	void Start()
 	{
-		Debug.Log("World is Myne");
+		Debug.Log("Hello Sekai!");
 	}
 	
 	void Update()
