@@ -11,6 +11,6 @@ public class HelloSekai : MonoBehaviour
 	
 	void Update()
 	{
-	
+		Debug.Log("Oo ee oo");
 	}
 }
